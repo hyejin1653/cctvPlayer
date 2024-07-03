@@ -1,0 +1,19 @@
+{
+  "name": "cctvPlayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "node-rtsp-stream": "0.0.9",
+    "rtsp-ffmpeg": "0.0.16",
+    "socket.io": "^4.5.1",
+    "ws": "^8.8.0"
+  }
+}
